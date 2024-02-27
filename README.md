@@ -6,9 +6,7 @@
     <title>My Website</title>
 </head>
 <body>
-    <h1>느금마목정자 ㅋ</h1>
+    <h1>Welcome to My Website</h1>
     <img src="1px.png" alt="Placeholder Image">
 </body>
 </html>
-
-
