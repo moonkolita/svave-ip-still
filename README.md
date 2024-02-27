@@ -1,2 +1,14 @@
-<img src="images/1px.png" alt="1px.png">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+</head>
+<body>
+    <h1>Welcome to My Website</h1>
+    <img src="1px.png" alt="Placeholder Image">
+</body>
+</html>
+
 
